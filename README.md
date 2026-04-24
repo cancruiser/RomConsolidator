@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.jpg" alt="ROM Consolidator Banner" width="100%">
+</p>
+
 # 🧹 ROM Consolidator
 
 **ROM Consolidator** is a fast, intelligent ROM cleaner and organizer that transforms messy game collections into a clean, playable library — automatically selecting the best version of each game.
