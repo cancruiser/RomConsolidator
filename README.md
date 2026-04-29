@@ -85,7 +85,7 @@ Please include:
 ## 💬 Community
 
 Join the Discord:
-👉 [YOUR DISCORD LINK HERE]
+👉 https://discord.gg/zCDA8evmyE
 
 ---
 
