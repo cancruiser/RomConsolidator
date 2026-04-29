@@ -2,41 +2,96 @@
   <img src="banner.PNG" alt="ROM Consolidator Banner" width="100%">
 </p>
 
-# Retro Library Builder v0.6.0 RC1
+# 🎮 Retro Library Builder
 
-This is a release candidate intended for early testing before the first public beta.
+**SD & ROM Management Tool**
 
-## Highlights
+Retro Library Builder helps you organize, validate, and prepare ROM libraries for use across emulators and handheld systems.
 
-- Rebranded app to **Retro Library Builder**
-- Updated modern dark UI layout and sidebar navigation
-- Added persistent dashboard behavior for faster navigation
-- Added background job tracking for longer-running work
-- Added SD backup/tool workflows
-- Added Safe SD Doctor area
-- Added DTB/device inspection support areas
-- Added ROM organization and scan review workflows
-- Added About / Support flow
+---
 
-## Testing requested
+## 🚀 Features
 
-Please test with copied files or backup folders first.
+* ⚡ **Quick Snapshot**
 
-Areas where feedback is most useful:
+  * Instantly scan your ROM folder
+  * View systems, file counts, and sizes
+  * No processing or changes
 
-- Scan accuracy by system
-- Duplicate handling
-- Needs Review classification
-- SD/folder build output structure
-- Dashboard counts and saved scan behavior
-- App startup, navigation, and long-running job status
+* 🧠 **Smart System Detection**
 
-## Important legal note
+  * Detects ROM systems based on files and structure
+  * Works with mixed libraries
 
-This app does not provide ROMs, BIOS files, firmware, or copyrighted content. It only works with files already on your computer.
+* 📦 **DAT Integration**
 
-## Known limitations
+  * Auto-download DAT files
+  * Validate ROMs against No-Intro / Redump style databases
 
-- This is an RC build and may contain bugs.
-- Some advanced device-specific workflows may need additional real-world testing.
-- Users should verify output folders manually before using a real SD card.
+* 🗂️ **Library Organization**
+
+  * Clean and structure ROM collections
+  * Remove duplicates and bad dumps
+
+* 💾 **SD Card Builder**
+
+  * Prepare SD cards for retro handheld devices
+
+---
+
+## 🖥️ Requirements
+
+* Windows 10 / 11
+* .NET Runtime (if required)
+
+---
+
+## ⬇️ Download
+
+Get the latest version from the **Releases** section.
+
+---
+
+## ⚡ Quick Start
+
+1. Launch the app
+2. Click **⚡ Quick Snapshot**
+3. Select your `ROMS` folder
+4. Review your library instantly
+5. Run full scan when ready
+
+---
+
+## 🐞 Reporting Issues
+
+Please include:
+
+* Version
+* What you did
+* What happened
+* Screenshot (if possible)
+
+---
+
+## 💡 Roadmap
+
+* Improved MAME support
+* Faster scan pipeline
+* Better duplicate detection
+* UI improvements
+
+---
+
+## 💬 Community
+
+Join the Discord:
+👉 [YOUR DISCORD LINK HERE]
+
+---
+
+## ⚠️ Disclaimer
+
+This tool does not provide or distribute ROMs.
+Users are responsible for their own data.
+
+---
