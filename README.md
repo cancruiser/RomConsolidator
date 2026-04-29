@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="ROM Consolidator Banner" width="100%">
+  <img src="banner.PNG" alt="ROM Consolidator Banner" width="100%">
 </p>
 
 # 🧹 ROM Consolidator
